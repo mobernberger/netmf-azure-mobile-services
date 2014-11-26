@@ -1,7 +1,7 @@
 # NetMFAMS
 ===========================
 
-A class library for communicating from .NET Micro Framework with Azure Mobile Services. Right now this only works with the .NET Backend version of Azure Mobile Services but I am working also on the Javascript Backend.
+A class library for communicating from .NET Micro Framework with Azure Mobile Services. This works with the Javascript and .Net Backend version of the Azure Mobile Services
 
 ### Credits
 
