@@ -77,7 +77,7 @@ if (mobileService.Update("<Tablename>",gadgeteerData.Id) == HttpStatusCode.NoCon
 }
 ```
 
-#### Query:
+##### Query:
 Send only the Table Name of your Mobile Services Table and you will get back all of your Entities inside a JSON string. You could also add a query to the request. Here is a good overlook which queries you could send: http://msdn.microsoft.com/en-us/library/azure/jj677199.aspx
 
 ```c#
