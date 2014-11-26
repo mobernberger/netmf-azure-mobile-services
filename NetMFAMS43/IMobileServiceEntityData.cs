@@ -7,8 +7,8 @@ namespace NetMFAMS43
     public interface IMobileServiceEntityData
     {
         /// <summary>
-        /// Id
+        /// id
         /// </summary>
-        string Id { get; set; }
+        string id { get; set; }
     }
 }

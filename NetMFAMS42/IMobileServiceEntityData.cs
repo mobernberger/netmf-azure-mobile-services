@@ -8,7 +8,7 @@ namespace NetMFAMS42
         /// <summary>
         /// Id
         /// </summary>
-        string Id { get; set; }
+        string id { get; set; }
     }
 
 }
