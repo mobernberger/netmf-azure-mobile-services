@@ -35,7 +35,7 @@ You also need a Class of your data which implements the IMobileServiceEntityData
   public class GadgeteerData : IMobileServiceEntityData
   {
       public double Temperature { get; set; }
-      public string Id { get; set; }
+      public string id { get; set; }
   }
 ```
 
@@ -52,7 +52,7 @@ var gadgeteerData = new GadgeteerData
 }
 
 var result = mobileService.Insert("<Tablename>",gadgeteerData);
-gadgeteerData.Id = result;
+gadgeteerData.id = result;
 ```
 
 ##### Update:
@@ -71,7 +71,7 @@ if (mobileService.Update("<Tablename>",gadgeteerData) == HttpStatusCode.OK)
 Send the Id of your Data/Entity to the Mobile Service and it will be deleted.
 
 ```c#
-if (mobileService.Update("<Tablename>",gadgeteerData.Id) == HttpStatusCode.NoContent)
+if (mobileService.Update("<Tablename>",gadgeteerData.id) == HttpStatusCode.NoContent)
 {
   Debug.Print("Success");
 }
