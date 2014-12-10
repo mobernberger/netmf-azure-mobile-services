@@ -23,3 +23,6 @@ C:\Users\amisober\OneDrive\Programming\Visual Studio 2013\Projects\NetMFAMS\NetM
 C:\Users\amisober\OneDrive\Programming\Visual Studio 2013\Projects\NetMFAMS\NetMFAMS42\obj\Debug\le\NetMFAMS42.pdbx
 C:\Users\amisober\OneDrive\Programming\Visual Studio 2013\Projects\NetMFAMS\NetMFAMS42\obj\Debug\NetMFAMS42.dll
 C:\Users\amisober\OneDrive\Programming\Visual Studio 2013\Projects\NetMFAMS\NetMFAMS42\obj\Debug\NetMFAMS42.pdb
+C:\Users\amisober\Documents\GitHub\netmf-azure-mobile-services\NetMFAMS42\obj\Debug\NetMFAMS42.csprojResolveAssemblyReference.cache
+C:\Users\amisober\Documents\GitHub\netmf-azure-mobile-services\NetMFAMS42\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\amisober\Documents\GitHub\netmf-azure-mobile-services\NetMFAMS42\obj\Debug\NetMFAMS42.dll

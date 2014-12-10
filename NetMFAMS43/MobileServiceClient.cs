@@ -188,7 +188,7 @@ namespace NetMFAMS43
         public HttpStatusCode Update(string tableName, IMobileServiceEntityData entity, bool noscript = false)
         {
             // build URI
-            _finalUri = _mobileServicesUri.AbsoluteUri + "tables/" + tableName + "/" + entity.Id;
+            _finalUri = _mobileServicesUri.AbsoluteUri + "tables/" + tableName + "/" + entity.id;
             if (noscript)
             {
                 if (_masterKey == null)
